@@ -1,2 +1,2 @@
 # kvDB
-Key:Value database in memory suitable for frontend and backend.
+Key:Value database in memory suitable for frontend (browser) and backend (Node JS).
