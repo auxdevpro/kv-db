@@ -1,0 +1,6 @@
+.gitconfig
+.env
+.idea
+.vs
+node_modules/
+temp/
